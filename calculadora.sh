@@ -1,0 +1,8 @@
+nome = input('diga seu nome:')
+print('ola,'+nome)
+valor = input('diga um numero:')
+valor1 = input('diga outro numero:')
+print('a adição desses numeros e:',int(valor)+int(valor1))
+print('a diminuição desses numero e:',int(valor)-int(valor1))
+print('a multiplicação desses numero e:',int(valor)*int(valor1))
+print('a divisão desses numeros e:',int(valor)/int(valor1))
